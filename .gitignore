@@ -1,0 +1,11 @@
+.idea
+.vscode
+public
+resources/_gen/
+.DS_Store
+node_modules
+dist
+tmp
+*.lock
+.ipynb_checkpoints
+**/__pycache__
